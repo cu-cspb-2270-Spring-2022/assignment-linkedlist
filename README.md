@@ -30,15 +30,15 @@ Project has following folder tree
 .  
 ├── CMakeLists.txt  
 ├── CMakeLists.txt.in  
-├── ```README.md```  
+├── README.md  
 ├── app  
-│   └── ```main.cpp```  
+│   └── main.cpp  
 ├── build  
 ├── code  
-│   ├── ```LinkedList.cpp```  
-│   └── ```LinkedList.h```
+│   ├── LinkedList.cpp  
+│   └── LinkedList.h
 └── tests  
-    └── ```test_LinkedList.cpp```  
+    └── test_LinkedList.cpp
 ```
 | File | Description |
 |---|---|
